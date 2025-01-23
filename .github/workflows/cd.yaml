@@ -18,5 +18,5 @@ jobs:
               with: 
                 username: blgianinis
                 password: ${{ secrets.DOCKER_PASSWORD }}
-                repository: blgianinis/blgianinis
+                repository: blgianinis
                 tags: ${{ github.sha }}, latest
