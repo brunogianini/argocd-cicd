@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: blgianinis/argocd-teste
-  newTag: c12971ec014c04670e8c63179f2e5562f647b0e5
+  newTag: d2262cb1f8e32df1bbffd9f3846b6e3da9f3a4d7
